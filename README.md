@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+##Tech Stacks 
+<p>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+</p>
 <!--
 **MJC0808/MJC0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
